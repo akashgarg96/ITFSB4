@@ -7,27 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<fieldset>
-
-<legend>Login</legend>
-<form action="LoginController" method="post">
-<table width="30%">
-<tr height="40">
-<td>Username</td>
-<td><input type="text" placeholder="Enter Ur Name" name="uName" maxlength="10" /></td>
-</tr>
-<tr>
-<tr height="40">
-<td>Password</td>
-<td><input type="password" placeholder="Enter Ur Password" name="uPass" maxlength="10" /></td>
-</tr>
-<tr height="40">
-<td><input type="submit"  value="Login"/>  <input type="reset" value="Reset"></td>
-
-
-</tr>
-</table>
-</form>
-</fieldset>
+Welcome Dave
 </body>
 </html>
